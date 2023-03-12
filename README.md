@@ -1,4 +1,4 @@
-# LicensePlateDetector
+# Create an OCR(Optical character recognition )
 Detects license plate of car and recognizes its characters
 
 ## Method
